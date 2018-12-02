@@ -1,5 +1,6 @@
 (ns aoc18.core
-  (:require [aoc18.solutions.day1 :as day1]))
+  (:require [aoc18.solutions.day1 :as day1])
+  (:require [aoc18.solutions.day2 :as day2]))
 
 (defn -main
   [& args]
