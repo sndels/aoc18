@@ -2,7 +2,8 @@
   (:require [aoc18.solutions.day1])
   (:require [aoc18.solutions.day2])
   (:require [aoc18.solutions.day3])
-  (:require [aoc18.solutions.day4]))
+  (:require [aoc18.solutions.day4])
+  (:require [aoc18.solutions.day5]))
 
 (defn -main
   [& args]
