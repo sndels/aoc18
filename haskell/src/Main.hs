@@ -3,6 +3,7 @@ import System.IO
 
 import Day6
 import Day7
+import Day8
 
 main = do
     args <- getArgs
@@ -16,3 +17,6 @@ main = do
         7 -> case part of
             1 -> d7p1 input
             2 -> d7p2 input
+        8 -> case part of
+            1 -> d8p1 input
+            2 -> d8p2 input
