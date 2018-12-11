@@ -6,6 +6,7 @@ import Day7
 import Day8
 import Day9
 import Day10
+import Day11
 
 main = do
     args <- getArgs
@@ -28,3 +29,6 @@ main = do
         10 -> case part of
             1 -> d10p1 input
             2 -> d10p2 input
+        11 -> case part of
+            1 -> d11p1 input
+            2 -> d11p2 input
